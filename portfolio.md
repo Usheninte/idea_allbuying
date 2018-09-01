@@ -4,11 +4,12 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Hi there, I am Usheninte, a software developer interested in Innovation, the Arts and Entrepreneurship. I believe big dreams, are pushed by and executed with big ideas. Everyone has a dream - you do too. Tell me your dream, and leave the heavy tech lifting to me. All we need, to make the world a more beautiful place, is an idea!
+Hi there, I am Usheninte, a software developer interested in **Innovation**, the **Arts** and **Entrepreneurship**. I believe big dreams, are pushed by and executed with big ideas. Everyone has a dream - you do too. Tell me your dream, and leave the heavy tech lifting to me. All we need, to make the world a more beautiful place, is an idea!
 
+* * *
 #### STACK
 
-Tools & Tech | Languages
+_Tools & Tech_ | _Languages_
 ------------ | ---------
 Github | JavaScript(ES6)
 WordPress | HTML/CSS/SCSS
@@ -17,6 +18,7 @@ Bootstrap | Node.js
 React | x
 Jekyll | x
 
+* * *
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)
 
 A collection of WordPress blogs. The official social website of Lead City University, Ibadan (Nigeria).
