@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   would like to place on the internet. Why not do so now!  Invest in 
   your future, and contact Usheninte for your next developer job. 
   Invest in you!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://idea.allbuy.i.ng" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Usheninte
 linkedin_username: usheninte
 twitter_username: Usheninte
