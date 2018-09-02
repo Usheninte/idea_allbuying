@@ -17,6 +17,7 @@ Cloudinary | Markdown
 Bootstrap | Node.js
 React | x
 Jekyll | x
+Express.js | x
 
 * * *
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)
