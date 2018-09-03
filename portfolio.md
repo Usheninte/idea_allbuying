@@ -14,10 +14,10 @@ _Tools & Tech_ | _Languages_
 Github | JavaScript(ES6)
 WordPress | HTML/CSS/SCSS
 Cloudinary | Markdown
-Bootstrap | Node.js
+Bootstrap | NodeJS
 React | x
 Jekyll | x
-Express.js | x
+ExpressJS | x
 
 * * *
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)
