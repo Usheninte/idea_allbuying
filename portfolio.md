@@ -9,15 +9,20 @@ Hi there, I am Usheninte, a software developer interested in **Innovation**, the
 * * *
 #### STACK
 
-_Tools & Tech_ | _Languages_
------------- | ---------
-Github | JavaScript(ES6)
-WordPress | HTML/CSS/SCSS
-Cloudinary | Markdown
-Bootstrap | NodeJS
-React | x
-Jekyll | x
-ExpressJS | x
+_Tools & Tech_ | _Languages_ | _Skills_
+------------ | --------- | ------
+Github | JavaScript(ES6) | Project Management
+WordPress | HTML/CSS/SCSS | Technical Writing
+Cloudinary | Markdown | x
+Bootstrap | NodeJS | x
+React | x | x
+Jekyll | x | x
+ExpressJS | x | x
+
+##### Note
+<blockquote>
+  As I grow as a person and developer, my Stack will be updated
+</blockquote>
 
 * * *
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)

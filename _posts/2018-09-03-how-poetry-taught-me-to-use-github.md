@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Poetry Taught Me To Use Github"
-date:   2018-09-03 09:45:00 +0100
+date:   2018-09-03 10:35:00 +0100
 categories: general
 ---
 I started actively pushing content to Github recently. I have not been pushing Open Source contributions, Components or anything of the like - I have been pushing poetry. I do this beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.
