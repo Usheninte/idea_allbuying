@@ -24,7 +24,7 @@ This is part **2** of a series I began with [this post](https://idea.allbuy.i.ng
 
 * Run `git commit -m"insert Message here"`. This will prepare the added/tracked changes to the folder on your system for pushing to Github. Here, **_insert Message here_** can be replaced with any relevant commit message of your choice.
 
-* Run `git remote add origin https://github.com/Usheninte/example.git` in the terminal. This will push the existing folder on you local computer system, to the **newly created** Github repository. Here, **_Usheninte_** and **_example_** will be replaced by the values provided in the copied link.
+* Run `git remote add origin https://github.com/Usheninte/example.git` in the terminal. Here, **_Usheninte_** and **_example_** will be replaced by the values provided in the copied link. This will push the existing folder on you local computer system, to the **newly created** Github repository.
 
 * Run `git remote -v`. This does some **_git pull_** and **_git push_** magic, to ensure that the contents of your new Github repository, and the folder on you local system are the same.
 
