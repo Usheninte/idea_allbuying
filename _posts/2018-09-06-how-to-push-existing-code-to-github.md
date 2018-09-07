@@ -4,7 +4,7 @@ title:  "How to push existing code to Github"
 date:   2018-09-06 08:13:00 +0100
 categories: general
 ---
-This is part **2** of a series I began with [this post](https://idea.allbuy.i.ng/general/2018/09/03/how-poetry-taught-me-to-use-github.html). Here, I will be explaining how to push existing code to a new Github repository.
+This is part **2** of a series I began with [this post](https://idea.allbuy.i.ng/general/2018/09/03/how-poetry-taught-me-to-use-github.html). Here, I will be explaining how to push existing code to a new and empty Github repository.
 
 <blockquote>
   "Coding is a beautiful thing. Anyone can learn to code!"
