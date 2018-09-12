@@ -9,15 +9,15 @@ Hi there, I am Usheninte, a software developer interested in **Innovation**, the
 * * *
 #### STACK
 
-_Tools & Tech_ | _Languages_ | _Skills_
------------- | --------- | ------
-Github | JavaScript(ES6) | Project Management
-WordPress | HTML/CSS/SCSS | Technical Writing
-Cloudinary | Markdown | x
-Bootstrap | NodeJS | x
-React | x | x
-Jekyll | x | x
-ExpressJS | x | x
+_Tools & Tech_ | _Skills & Languages_
+-------------- | ---------
+Github | Project Management  
+WordPress | Technical Writing  
+Cloudinary | Image & Video Management
+Bootstrap | HTML/CSS/SCSS  
+React | NodeJS  
+Jekyll | Markdown  
+ExpressJS | JavaScript(ES6)  
 
 ##### Note
 <blockquote>
@@ -28,7 +28,7 @@ ExpressJS | x | x
 #### >> [react-fcctest](https://www.npmjs.com/package/react-fcctest)
 This is an open source initiative, meant to help members of the freeCodeCamp program, have an easy way to test their React app projects. It is essentially a React plugin for the freeCodeCamp Test Suite.
 
-It is [available as a package](https://www.npmjs.com/package/react-fcctest) on the NPM registry
+It is [available as a package](https://www.npmjs.com/package/react-fcctest) on the NPM registry.
 
 <a href="https://www.npmjs.com/package/react-fcctest"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495813/allbuy-i-ng/portfolio/react-fcctest.png" /></a>
 
