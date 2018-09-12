@@ -27,4 +27,4 @@ That is all there is to it!
 [HERE IS A DEMO](https://usheninte.github.io/react-fcctest/)
 
 * * *
-My 2018 so far, has been amazing. I got accepted as the first **_Developer Student Club Lead_** for my university. I earned _12+ coding-related certificates_ during the Summer vacation; and much more is coming. I am aiming for greatness, in outer space - perhaps I might just land on a moon. More tech stories are coming soon.
+My 2018 so far, has been amazing. I got accepted as the first **_Developer Student Club Lead_** for my university, in a program powered by **Google Developers**. I earned _12+ coding-related certificates_ during the Summer vacation; and much more is coming. I am aiming for greatness, in outer space - perhaps I might just land on a moon. More tech stories are coming soon.
