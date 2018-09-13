@@ -12,7 +12,7 @@ I used certain key technologies to make the project a reality:
 * NPM
 * Node.js
 
-I will try to make this as brief as possible. I tried several times (for a whole day actually), before I could even succeed in make the plugin functional. Upon making it functional, implementation in a React app became a hassle. Time and time again, I was faced with technical difficulties, yet still I overcame. I cannot say how much **_Google Search_** aided me, in solving my problems on my own.
+I will try to make this as brief as possible. I tried several times (for a whole day actually), before I could even succeed in making the plugin functional. Upon making it functional, implementation in a React app became a hassle. Time and time again, I was faced with technical difficulties, yet still I overcame. I cannot say how much **_Google Search_** aided me, in solving my problems on my own.
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/v1536758965/allbuy-i-ng/gallery/1.gif" />
 
