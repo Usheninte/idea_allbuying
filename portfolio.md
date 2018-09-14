@@ -16,7 +16,6 @@ WordPress | Technical Writing
 Cloudinary | Image & Video Management
 Bootstrap | HTML/CSS/SCSS  
 React | NodeJS  
-Jekyll | Markdown  
 ExpressJS | JavaScript(ES6)  
 
 ##### Note
