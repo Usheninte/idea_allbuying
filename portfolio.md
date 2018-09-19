@@ -24,6 +24,13 @@ ExpressJS | JavaScript(ES6)
 </blockquote>
 
 * * *
+#### >> [LCU RocWorld EDC](https://edc.rocworld.com.ng/)
+This project was built for the Lead City University (LCU) RocWorld Entrepreneurial Development Center (EDC). The **LCU RocWorld EDC** is a platform that strives to develop an entrepreneurial spirit, skill and knowledge in students and others in the external context so as to empoweer our students to become wealth creators.
+
+This project was built as a React web app.
+
+<a href="https://edc.rocworld.com.ng/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1537339129/allbuy-i-ng/portfolio/edc_rocworld.png" /></a>
+
 #### >> [react-fcctest](https://www.npmjs.com/package/react-fcctest)
 This is an open source initiative, meant to help members of the freeCodeCamp program, have an easy way to test their React app projects. It is essentially a React plugin for the freeCodeCamp Test Suite.
 
