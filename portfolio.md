@@ -24,8 +24,8 @@ ExpressJS | JavaScript(ES6)
 </blockquote>
 
 * * *
-#### >> [LCU RocWorld EDC](https://edc.rocworld.com.ng/)
-This project was built for the Lead City University (LCU) RocWorld Entrepreneurial Development Center (EDC). The **LCU RocWorld EDC** is a platform that strives to develop an entrepreneurial spirit, skill and knowledge in students and others in the external context so as to empoweer our students to become wealth creators.
+#### >> [ROC World EDC](https://edc.rocworld.com.ng/)
+This project was built for the ROC World Entrepreneurial Development Centre (EDC). The **ROC World EDC** is a platform that strives to develop an entrepreneurial spirit, skill and knowledge in students and others in the external context so as to empoweer our students to become wealth creators.
 
 This project was built as a React web app.
 
