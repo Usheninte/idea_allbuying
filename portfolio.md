@@ -24,6 +24,13 @@ ExpressJS | JavaScript(ES6)
 </blockquote>
 
 * * *
+#### >> [LCU JamCityLive Festival '18](https://lcu-jamcitylive-fest18.netlify.com/)
+Jam City Live will carry out the 3rd Edition of the Lead City Jam City Festival of Music and Culture, in November 2018, partnering with the prestigious Lead City University, Ibadan and Roc World Consulting Services LTD.
+
+This project was built as a React web app.
+
+<a href="https://lcu-jamcitylive-fest18.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1537695101/allbuy-i-ng/portfolio/lcu-lamcitylive-fest18.png" /></a>
+
 #### >> [Realworld Beautician](https://realworld-beautician.netlify.com/)
 Realworld Beautician is a business that offers beauty enhancement servives. It is located in Ibadan, Nigeria.
 
