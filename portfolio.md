@@ -24,6 +24,13 @@ ExpressJS | JavaScript(ES6)
 </blockquote>
 
 * * *
+#### >> [htmlPoems App](https://htmlPoems.com)
+I rebuilt the **@poetrique** htmlPoems project as a React web app. The original concept was largely poetry centred, while the new web app revolves around art in every possible form. Currently the project holds a poetry and music library. 
+
+The uniqueness of this project is that content creators on the platform, retain the copyright of their artistic pieces, unless otherwise stated elsewhere.
+
+<a href="https://htmlPoems.com"><img src="https://res.cloudinary.com/poetrique/image/upload/v1538028061/allbuy-i-ng/portfolio/htmlPoems_app.png" /></a>
+
 #### >> [LCU JamCityLive Festival '18](https://lcu-jamcitylive-fest18.netlify.com/)
 Jam City Live will carry out the 3rd Edition of the Lead City Jam City Festival of Music and Culture, in November 2018, partnering with the prestigious Lead City University, Ibadan and Roc World Consulting Services LTD.
 
@@ -72,9 +79,3 @@ This was a project for my freeCodeCamp certification. I built it with Bootstrap.
 A collection of WordPress blogs. The official social website of Lead City University, Ibadan (Nigeria).
 
 <a href="https://lcuofficial.com.ng"><img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,h_200,q_auto:best/v1535767993/allbuy-i-ng/portfolio/lcuofficial.png" /></a>
-
-#### >> [Htmlpoems.com](http://htmlpoems.com)
-
-A poetry website fully hosted on Github Pages, and updated via the terminal. This project taught me to use Github and Git Version Control properly.
-
-<a href="http://htmlpoems.com"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495813/allbuy-i-ng/portfolio/htmlpoems.png" /></a>
