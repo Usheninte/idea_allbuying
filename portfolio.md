@@ -69,6 +69,8 @@ This project was built as a React web app.
 #### >> [react-fcctest](https://www.npmjs.com/package/react-fcctest)
 This is an open source initiative, meant to help members of the freeCodeCamp program, have an easy way to test their React app projects. It is essentially a React plugin for the freeCodeCamp Test Suite.
 
+I broke down the process of building the React plugin [here](https://medium.freecodecamp.org/change-the-world-one-line-of-code-at-a-time-5162b229f35e), on the official **freeCodeCamp Medium publication**.
+
 It is [available as a package](https://www.npmjs.com/package/react-fcctest) on the NPM registry.
 
 <a href="https://www.npmjs.com/package/react-fcctest"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495813/allbuy-i-ng/portfolio/react-fcctest.png" /></a>
@@ -77,16 +79,6 @@ It is [available as a package](https://www.npmjs.com/package/react-fcctest) on t
 This was a project for the freeCodeCamp Frontend Libraries Certification.
 
 <a href="https://codepen.io/usheninte/full/MBLwwy/"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495793/allbuy-i-ng/portfolio/random-quote-machine.png" /></a>
-
-#### >> [Smirnoff eCampaign](https://codepen.io/usheninte/full/yjXNQe)
-Built for the Smirnoff tour in Ibadan, in May 2018. This campaign helped educate the public about the nature of the event and the benefits of attending.
-
-<a href="https://codepen.io/usheninte/full/yjXNQe"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495820/allbuy-i-ng/portfolio/smirnoff-ecampaign.png" /></a>
-
-#### >> [Tribute to Tupac](https://codepen.io/usheninte/full/mLmyEW/)
-This was a project for my freeCodeCamp certification. I built it with Bootstrap.
-
-<a href="https://codepen.io/usheninte/full/mLmyEW/"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536496296/allbuy-i-ng/portfolio/tupac-tribute.png" /></a>
 
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)
 
