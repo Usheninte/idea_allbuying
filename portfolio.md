@@ -75,11 +75,6 @@ It is [available as a package](https://www.npmjs.com/package/react-fcctest) on t
 
 <a href="https://www.npmjs.com/package/react-fcctest"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495813/allbuy-i-ng/portfolio/react-fcctest.png" /></a>
 
-#### >> [Random Quote Machine](https://codepen.io/usheninte/full/MBLwwy/)
-This was a project for the freeCodeCamp Frontend Libraries Certification.
-
-<a href="https://codepen.io/usheninte/full/MBLwwy/"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495793/allbuy-i-ng/portfolio/random-quote-machine.png" /></a>
-
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)
 
 A collection of WordPress blogs. The official social website of Lead City University, Ibadan (Nigeria).
