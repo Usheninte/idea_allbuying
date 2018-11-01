@@ -14,9 +14,8 @@ _Tools & Tech_ | _Skills & Languages_
 Github | Project Management  
 WordPress | Technical Writing  
 Cloudinary | Image & Video Management
-Bootstrap | HTML/CSS/Markdown  
-React | NodeJS  
-ExpressJS | JavaScript(ES6)  
+Bootstrap / Material Design | HTML / CSS / LESS
+React, NodeJS | JavaScript(ES6+)  
 
 ##### Note
 <blockquote>
