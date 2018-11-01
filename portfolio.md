@@ -23,7 +23,7 @@ React, NodeJS | JavaScript(ES6+)
 </blockquote>
 
 * * *
-#### >> [RoyalsCollectives](https://royalscollectives.com/)
+#### >> [Developer Student Club LCU](https://dsc-app.lcuofficial.com.ng)
 DSC is a Google Developers program for university students, designed to help them build their mobile and web development skills and knowledge. It is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
 
 <a href="https://dsc-app.lcuofficial.com.ng"><img src="" /></a>
