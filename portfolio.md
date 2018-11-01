@@ -84,10 +84,10 @@ I broke down the process of building the React plugin [here](https://medium.free
 
 It is [available as a package](https://www.npmjs.com/package/react-fcctest) on the NPM registry.
 
-<a href="https://www.npmjs.com/package/react-fcctest"><img src="" /></a>
+<a href="https://www.npmjs.com/package/react-fcctest"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113360/portfolio/react-fcctest.png" /></a>
 
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)
 
 A collection of WordPress blogs. The official social website of Lead City University, Ibadan (Nigeria).
 
-<a href="https://lcuofficial.com.ng"><img src="" /></a>
+<a href="https://lcuofficial.com.ng"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113359/portfolio/lcuofficial.png" /></a>
