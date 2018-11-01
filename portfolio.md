@@ -44,12 +44,12 @@ Raising Girls Ambition (RAGA) is a project that has taken a central role in the 
 
 <a href="https://raga-project.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1538486203/allbuy-i-ng/portfolio/raga-project.png" /></a>
 
-#### >> [htmlPoems App](https://htmlPoems.com)
+<!-- #### >> [htmlPoems App](https://htmlPoems.com)
 I rebuilt the **@poetrique** htmlPoems project as a React web app. The original concept was largely poetry centred, while the new web app revolves around art in every possible form. Currently the project holds a poetry and music library.
 
 The uniqueness of this project is that content creators on the platform, retain the copyright of their artistic pieces, unless otherwise stated elsewhere.
 
-<a href="https://htmlPoems.com"><img src="https://res.cloudinary.com/poetrique/image/upload/v1538028061/allbuy-i-ng/portfolio/htmlPoems_app.png" /></a>
+<a href="https://htmlPoems.com"><img src="https://res.cloudinary.com/poetrique/image/upload/v1538028061/allbuy-i-ng/portfolio/htmlPoems_app.png" /></a> -->
 
 #### >> [LCU JamCityLive Festival '18](https://lcu-jamcitylive-fest18.netlify.com/)
 Jam City Live will carry out the 3rd Edition of the Lead City Jam City Festival of Music and Culture, in November 2018, partnering with the prestigious Lead City University, Ibadan.
