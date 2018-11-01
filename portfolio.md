@@ -61,7 +61,7 @@ Jam City Live will carry out the 3rd Edition of the Lead City Jam City Festival 
 
 This project was built as a React web app.
 
-<a href="https://lcu-jamcitylive-fest18.netlify.com/"><img src="" /></a>
+<a href="https://lcu-jamcitylive-fest18.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113363/portfolio/lcu-lamcitylive-fest18.png" /></a>
 
 #### >> [Realworld Beautician](https://realworld-beautician.netlify.com/)
 Realworld Beautician is a business that offers beauty enhancement servives. It is located in Ibadan, Nigeria.
