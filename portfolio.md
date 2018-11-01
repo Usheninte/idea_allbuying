@@ -47,7 +47,7 @@ I built a React web app for the Global Youth Leadership and Girl-Child Foundatio
 
 Raising Girls Ambition (RAGA) is a project that has taken a central role in the fight for girls’ human right to education, life, and equality, meaningful physical, mental, emotional and socially developed life.
 
-<a href="https://raga-project.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1538486203/allbuy-i-ng/portfolio/raga-project.png" /></a>
+<a href="https://raga-project.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113362/portfolio/raga-project.png" /></a>
 
 <!-- #### >> [htmlPoems App](https://htmlPoems.com)
 I rebuilt the **@poetrique** htmlPoems project as a React web app. The original concept was largely poetry centred, while the new web app revolves around art in every possible form. Currently the project holds a poetry and music library.
