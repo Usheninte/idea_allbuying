@@ -29,7 +29,7 @@ twitter_username: Usheninte
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 
 google_analytics: UA-125173599-1
