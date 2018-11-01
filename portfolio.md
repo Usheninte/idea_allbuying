@@ -62,14 +62,14 @@ Realworld Beautician is a business that offers beauty enhancement servives. It i
 
 This project was built as a React web app.
 
-<a href="https://realworld-beautician.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1537608510/allbuy-i-ng/portfolio/realworld_beautician.png" /></a>
+<a href="https://realworld-beautician.netlify.com/"><img src="" /></a>
 
 <!-- #### >> [ROC World EDC](https://edc.rocworld.com.ng/)
 This project was built for the ROC World Entrepreneurial Development Centre (EDC). The **ROC World EDC** is a platform that strives to develop an entrepreneurial spirit, skill and knowledge in students and others in the external context so as to empoweer our students to become wealth creators.
 
 This project was built as a React web app.
 
-<a href="https://edc.rocworld.com.ng/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1537339129/allbuy-i-ng/portfolio/edc_rocworld.png" /></a> -->
+<a href="https://edc.rocworld.com.ng/"><img src="" /></a> -->
 
 #### >> [react-fcctest](https://www.npmjs.com/package/react-fcctest)
 This is an open source initiative, meant to help members of the freeCodeCamp program, have an easy way to test their React app projects. It is essentially a React plugin for the freeCodeCamp Test Suite.
@@ -78,10 +78,10 @@ I broke down the process of building the React plugin [here](https://medium.free
 
 It is [available as a package](https://www.npmjs.com/package/react-fcctest) on the NPM registry.
 
-<a href="https://www.npmjs.com/package/react-fcctest"><img src="http://res.cloudinary.com/poetrique/image/upload/v1536495813/allbuy-i-ng/portfolio/react-fcctest.png" /></a>
+<a href="https://www.npmjs.com/package/react-fcctest"><img src="" /></a>
 
 #### >> [Lcuofficial.com.ng](https://lcuofficial.com.ng/)
 
 A collection of WordPress blogs. The official social website of Lead City University, Ibadan (Nigeria).
 
-<a href="https://lcuofficial.com.ng"><img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,h_200,q_auto:best/v1535767993/allbuy-i-ng/portfolio/lcuofficial.png" /></a>
+<a href="https://lcuofficial.com.ng"><img src="" /></a>
