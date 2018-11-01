@@ -40,7 +40,7 @@ I had a lot of fun building this project. This was completed during Round 2 of m
 
 RoyalsCollectives, is an art and illustration brand. The concepts tackled and portrayed by the brand, are typically urban and entertainment centred. What I simply did, was bring to life their best pieces as at when I built the web app.
 
-<a href="https://royalscollectives.com/"><img src="" /></a>
+<a href="https://royalscollectives.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113360/portfolio/RoyalsCollectives.png" /></a>
 
 #### >> [RAGA Project](https://raga-project.netlify.com/)
 I built a React web app for the Global Youth Leadership and Girl-Child Foundation's RAGA project.
