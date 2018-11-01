@@ -25,6 +25,12 @@ ExpressJS | JavaScript(ES6)
 
 * * *
 #### >> [RoyalsCollectives](https://royalscollectives.com/)
+DSC is a Google Developers program for university students, designed to help them build their mobile and web development skills and knowledge. It is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
+
+<a href="https://dsc-app.lcuofficial.com.ng"><img src="" /></a>
+
+* * *
+#### >> [RoyalsCollectives](https://royalscollectives.com/)
 I had a lot of fun building this project. This was completed during Round 2 of my #100DaysOfCode Challenge.
 
 RoyalsCollectives, is an art and illustration brand. The concepts tackled and portrayed by the brand, are typically urban and entertainment centred. What I simply did, was bring to life their best pieces as at when I built the web app.
