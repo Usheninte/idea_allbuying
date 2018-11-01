@@ -32,7 +32,7 @@ The mission of this institution, is to provide quality education & training cond
 #### >> [Developer Student Club LCU](https://dsc-app.lcuofficial.com.ng)
 DSC is a Google Developers program for university students, designed to help them build their mobile and web development skills and knowledge. It is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
 
-<a href="https://dsc-app.lcuofficial.com.ng"><img src="" /></a>
+<a href="https://dsc-app.lcuofficial.com.ng"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113365/portfolio/dsc_web-app.png" /></a>
 
 * * *
 #### >> [RoyalsCollectives](https://royalscollectives.com/)
