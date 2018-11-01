@@ -34,7 +34,7 @@ I had a lot of fun building this project. This was completed during Round 2 of m
 
 RoyalsCollectives, is an art and illustration brand. The concepts tackled and portrayed by the brand, are typically urban and entertainment centred. What I simply did, was bring to life their best pieces as at when I built the web app.
 
-<a href="https://royalscollectives.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1538486203/allbuy-i-ng/portfolio/RoyalsCollectives.png" /></a>
+<a href="https://royalscollectives.com/"><img src="" /></a>
 
 #### >> [RAGA Project](https://raga-project.netlify.com/)
 I built a React web app for the Global Youth Leadership and Girl-Child Foundation's RAGA project.
@@ -48,14 +48,14 @@ I rebuilt the **@poetrique** htmlPoems project as a React web app. The original 
 
 The uniqueness of this project is that content creators on the platform, retain the copyright of their artistic pieces, unless otherwise stated elsewhere.
 
-<a href="https://htmlPoems.com"><img src="https://res.cloudinary.com/poetrique/image/upload/v1538028061/allbuy-i-ng/portfolio/htmlPoems_app.png" /></a> -->
+<a href="https://htmlPoems.com"><img src="" /></a> -->
 
 #### >> [LCU JamCityLive Festival '18](https://lcu-jamcitylive-fest18.netlify.com/)
 Jam City Live will carry out the 3rd Edition of the Lead City Jam City Festival of Music and Culture, in November 2018, partnering with the prestigious Lead City University, Ibadan.
 
 This project was built as a React web app.
 
-<a href="https://lcu-jamcitylive-fest18.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1537695101/allbuy-i-ng/portfolio/lcu-lamcitylive-fest18.png" /></a>
+<a href="https://lcu-jamcitylive-fest18.netlify.com/"><img src="" /></a>
 
 #### >> [Realworld Beautician](https://realworld-beautician.netlify.com/)
 Realworld Beautician is a business that offers beauty enhancement servives. It is located in Ibadan, Nigeria.
