@@ -68,7 +68,7 @@ Realworld Beautician is a business that offers beauty enhancement servives. It i
 
 This project was built as a React web app.
 
-<a href="https://realworld-beautician.netlify.com/"><img src="" /></a>
+<a href="https://realworld-beautician.netlify.com/"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113364/portfolio/realworld_beautician.png" /></a>
 
 <!-- #### >> [ROC World EDC](https://edc.rocworld.com.ng/)
 This project was built for the ROC World Entrepreneurial Development Centre (EDC). The **ROC World EDC** is a platform that strives to develop an entrepreneurial spirit, skill and knowledge in students and others in the external context so as to empoweer our students to become wealth creators.
