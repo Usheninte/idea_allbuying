@@ -26,7 +26,7 @@ React, NodeJS | JavaScript(ES6+)
 #### >> [Lead City Fashion & Lifestyle Academy](https://leadcityfashion.com.ng)
 The mission of this institution, is to provide quality education & training conducive to the optimal development of each student by ensuring individual attention and committment to learners, in order to maximise their unique potential and equip them to enter the fashion industry in any field with confidence, except knowledge and skill.
 
-<a href="https://leadcityfashion.com.ng"><img src="" /></a>
+<a href="https://leadcityfashion.com.ng"><img src="https://res.cloudinary.com/poetrique/image/upload/v1541113371/portfolio/leadcityfashion.png" /></a>
 
 * * *
 #### >> [Developer Student Club LCU](https://dsc-app.lcuofficial.com.ng)
