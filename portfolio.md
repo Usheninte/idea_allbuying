@@ -11,7 +11,7 @@ Hi there, I am Usheninte, a software developer interested in **Innovation**, the
 
 _Tools & Tech_ | _Skills & Languages_
 -------------- | ---------
-Github | Project Management  
+Github / Netlify | Code Management  
 WordPress | Technical Writing  
 Cloudinary | Image & Video Management
 Bootstrap / Material Design | HTML / CSS / LESS
