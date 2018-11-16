@@ -10,8 +10,7 @@ What will I be focusing on in this round? Well, here is a list of just a few tec
 * MongoDB
 * React
 * Redux
-* Python
-* Flask
-* MongooseJS
+* Node.js
+* Mongoose.js
 
 Join me as I work to become a world-class developer. It is not going to be easy, but I am willing to put in all the effort needed. I look forward to changing the way Africans interact with the internet, for the better.
